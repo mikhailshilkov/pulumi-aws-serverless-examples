@@ -1,0 +1,3 @@
+name: aws-coldstart-js
+description: A simple Lambda to test AWS cold starts
+runtime: nodejs
